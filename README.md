@@ -192,7 +192,7 @@ come from these databases and remain under their terms of use.
 This work has been supported by the Business Finland through project SeQuSoS (Grant No. 112/31/2024), and Research Council of Finland through project Profi 8 - qSIME (Grants No. 365343).
 
 ## Contributors
-- Badhon Rahman ([@BadhonRahman01](https://github.com/BadhonRahman01)), University of Jyväskylä*
+- Badhon Rahman ([@BadhonRahman01](https://github.com/BadhonRahman01)), University of Jyväskylä
 - Majid Haghparast ([@MajidHaghparast](https://github.com/MajidHaghparast)), University of Jyväskylä
 - Tommi Mikkonen, University of Jyväskylä
 
