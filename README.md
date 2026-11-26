@@ -1,14 +1,14 @@
-Inherited, Not Intrinsic
+## Inherited, Not Intrinsic
 
 This repository contains the replication package of the paper Inherited, Not Intrinsic: An Empirical Study of Security Vulnerabilities in Quantum Programming Language Ecosystems. It holds the data behind the tables and numbers of the paper, and three Python scripts. One script recomputes the numbers of the paper from the data. The other two repeat the exposure analysis against the Python Package Index (PyPI).
 
-How to cite
+## How to cite
 
 The replication package is free to use and to modify. However, you must add reference [1] in case of any publication/production/execution/etc.
 
 [1] B. Rahman, M. Haghparast, T. Mikkonen, "Inherited, Not Intrinsic: An Empirical Study of Security Vulnerabilities in Quantum Programming Language Ecosystems," manuscript submitted to the Journal of Systems and Software, 2026. To be updated after publication.
 
-Directory Structure
+## Directory Structure
 
 The data are organized by the steps of the study: search, selection, corpus and exposure analysis. The scripts expect this relative directory structure.
 
@@ -37,7 +37,8 @@ Inherited-Not-Intrinsic/
 │   ├── recheck_declarations.py                     (re-checks the declarations of Table 7 against PyPI)
 │   └── exposure_test.py                            (repeats the exposure analysis from PyPI)
 └── rerun/                                          (created when the PyPI scripts run; not in the repository)
-Where each part of the paper comes from
+
+## Where each part of the paper comes from
 
 Table and section numbers are those of the submitted manuscript.
 
@@ -54,7 +55,8 @@ Section 4.2, fix timing	data/exposure/fix_timing.csv
 Section 4.2, constraints on 28 September 2026	data/exposure/current_constraints.csv
 Section 7, advisories without a CVE identifier	screening_decisions.csv, rows with decision = EC3
 Section 7, CVEs excluded by the reachability criterion	candidates.csv, rows with outcome = not reachable (IC4)
-Reproducing the results
+
+## Reproducing the results
 
 Run the scripts from the repository root. They need Python 3.8 or later.
 
@@ -73,7 +75,7 @@ repeats the exposure analysis from PyPI alone. For each of the 64 Tier 2 candida
 
 We last ran the three scripts on 26 November 2026. PyPI's advisory data keep changing, so a later run of exposure_test.py may report differences. The script also lists the advisories that PyPI holds today and that were not among the records we screened.
 
-Notes on the data
+## Notes on the data
 
 Searches. search_log.csv has one row per search string and database: 29 Tier 1 strings, 90 Tier 2 package names and 10 Tier 3 strings in four databases. hits is the count reported in the paper. Tables 2-4 print the counts of 51 strings; each of these counts is the number of records that hit_lists.csv lists for the search. For the other 78 package names the paper reports the counts in the text of Section 3.1.2 (33,264 hits for requests, 2,201 hits for 21 names that are also common words or other products, and no record for 56 names). In hit_lists.csv each row is one record returned by one search; aliases lists the other identifiers given in the record.
 
@@ -99,7 +101,7 @@ Corpus. corpus.csv has one row per CVE. flaw and workflow carry the text of Tabl
 
 Exposure. sdk_packages.csv lists the PyPI packages that count as each SDK. Two legacy names are included because releases under them were in force when older CVEs were published: qiskit-terra, which carried Qiskit's code and dependencies between 2018 and 2024, and cirq, which did so until 2021. The release in force on a date is the highest final version uploaded on or before that date. A package is declared if the release requires it without an extra. Constraints are read from the release metadata on PyPI, from requires.txt in the source distribution where PyPI holds no metadata, and from the wheel where there is no source distribution. Affected releases are those to which PyPI attaches an advisory with the CVE identifier; PyPI takes these advisories from OSV. first_admitted_affected is the lowest affected release that the constraint admits and is empty where it admits none. In fix_timing.csv the fix date is the upload date of the fixed release, and the latest one where a fix was back-ported to several release lines.
 
-Known limits
+## Known limits
 The hit counts in Tables 2-4 are the numbers of records in hit_lists.csv, the lists that we de-duplicated and screened. The lists were rebuilt from bulk copies of the databases. The counts that the search interfaces displayed on 28 September 2026 differed from them in eight of the 204 table cells, by 14 hits in total (Google Quantum, quantum, ML-DSA and kyber in the CVE List, quantum and xanadu in OSV, open quantum safe and post-quantum in the GitHub Advisory Database).
 The most recent CVE record in the lists was published on 22 September 2026.
 hit_lists.csv covers the 51 strings of Tables 2-4. For requests the package gives the merged records with the databases that returned them. For the other 77 package names only the counts were kept.
