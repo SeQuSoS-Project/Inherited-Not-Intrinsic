@@ -109,11 +109,11 @@ Data sources
 
 National Vulnerability Database (https://nvd.nist.gov), CVE List (https://www.cve.org), GitHub Advisory Database (https://github.com/advisories), OSV (https://osv.dev) and the Python Package Index (https://pypi.org). The identifiers and the short description fragments in the data files come from these databases and remain under their terms of use.
 
-Acknowledgements
+## Acknowledgements
 
 This work has been supported by the Business Finland through project SeQuSoS (Grant No. 112/31/2024), and Research Council of Finland through project Profi 8 - qSIME (Grants No. 365343).
 
-Contributors
+## Contributors
 - Badhon Rahman ([@BadhonRahman01](https://github.com/BadhonRahman01)), University of Jyväskylä*
 Majid Haghparast ([@MajidHaghparast](https://github.com/MajidHaghparast)), University of Jyväskylä
 Tommi Mikkonen, University of Jyväskylä
