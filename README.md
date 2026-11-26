@@ -22,6 +22,7 @@ The scripts expect this relative directory structure.
  
 ```text
 Inherited-Not-Intrinsic/
+├── LICENSE                                         (Apache License 2.0)
 ├── README.md
 ├── data/
 │   ├── search/
