@@ -195,7 +195,8 @@ This work has been supported by the Business Finland through project SeQuSoS (Gr
 ## Contributors
 - Badhon Rahman ([@BadhonRahman01](https://github.com/BadhonRahman01)), University of Jyväskylä
 - Majid Haghparast ([@MajidHaghparast](https://github.com/MajidHaghparast)), University of Jyväskylä
-- Tommi Mikkonen, https://github.com/tommimikkonen University of Jyväskylä
+- Tommi Mikkonen ([@tommimikkonen](https://github.com/tommimikkonen)), University of Jyväskylä
+- , https://github.com/tommimikkonen University of Jyväskylä
 
 ## Contact
 - Badhon Rahman <badhon.b.rahman@jyu.fi> (corresponding author)
