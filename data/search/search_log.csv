@@ -1,0 +1,517 @@
+tier,search_string,kind,database,hits,reported_in
+1,qiskit,SDK package name,NVD,5,Table 2
+1,qiskit,SDK package name,CVE List,5,Table 2
+1,qiskit,SDK package name,GHSA,5,Table 2
+1,qiskit,SDK package name,OSV,12,Table 2
+1,qiskit-terra,SDK package name,NVD,0,Table 2
+1,qiskit-terra,SDK package name,CVE List,0,Table 2
+1,qiskit-terra,SDK package name,GHSA,0,Table 2
+1,qiskit-terra,SDK package name,OSV,4,Table 2
+1,qiskit-ibm-runtime,SDK package name,NVD,0,Table 2
+1,qiskit-ibm-runtime,SDK package name,CVE List,1,Table 2
+1,qiskit-ibm-runtime,SDK package name,GHSA,2,Table 2
+1,qiskit-ibm-runtime,SDK package name,OSV,4,Table 2
+1,cirq,SDK package name,NVD,0,Table 2
+1,cirq,SDK package name,CVE List,0,Table 2
+1,cirq,SDK package name,GHSA,0,Table 2
+1,cirq,SDK package name,OSV,0,Table 2
+1,pennylane,SDK package name,NVD,0,Table 2
+1,pennylane,SDK package name,CVE List,0,Table 2
+1,pennylane,SDK package name,GHSA,0,Table 2
+1,pennylane,SDK package name,OSV,0,Table 2
+1,projectq,SDK package name,NVD,0,Table 2
+1,projectq,SDK package name,CVE List,0,Table 2
+1,projectq,SDK package name,GHSA,0,Table 2
+1,projectq,SDK package name,OSV,0,Table 2
+1,qibo,SDK package name,NVD,16,Table 2
+1,qibo,SDK package name,CVE List,2,Table 2
+1,qibo,SDK package name,GHSA,2,Table 2
+1,qibo,SDK package name,OSV,0,Table 2
+1,strawberryfields,SDK package name,NVD,0,Table 2
+1,strawberryfields,SDK package name,CVE List,0,Table 2
+1,strawberryfields,SDK package name,GHSA,0,Table 2
+1,strawberryfields,SDK package name,OSV,0,Table 2
+1,qrisp,SDK package name,NVD,0,Table 2
+1,qrisp,SDK package name,CVE List,0,Table 2
+1,qrisp,SDK package name,GHSA,0,Table 2
+1,qrisp,SDK package name,OSV,0,Table 2
+1,pyquil,SDK package name,NVD,0,Table 2
+1,pyquil,SDK package name,CVE List,0,Table 2
+1,pyquil,SDK package name,GHSA,0,Table 2
+1,pyquil,SDK package name,OSV,0,Table 2
+1,qulacs,SDK package name,NVD,0,Table 2
+1,qulacs,SDK package name,CVE List,0,Table 2
+1,qulacs,SDK package name,GHSA,0,Table 2
+1,qulacs,SDK package name,OSV,0,Table 2
+1,amazon-braket-sdk,SDK package name,NVD,1,Table 2
+1,amazon-braket-sdk,SDK package name,CVE List,1,Table 2
+1,amazon-braket-sdk,SDK package name,GHSA,1,Table 2
+1,amazon-braket-sdk,SDK package name,OSV,2,Table 2
+1,CUDA-Q,product or vendor name,NVD,1,Table 2
+1,CUDA-Q,product or vendor name,CVE List,1,Table 2
+1,CUDA-Q,product or vendor name,GHSA,1,Table 2
+1,CUDA-Q,product or vendor name,OSV,0,Table 2
+1,strawberry fields,product or vendor name,NVD,1,Table 2
+1,strawberry fields,product or vendor name,CVE List,1,Table 2
+1,strawberry fields,product or vendor name,GHSA,2,Table 2
+1,strawberry fields,product or vendor name,OSV,0,Table 2
+1,braket,product or vendor name,NVD,1,Table 2
+1,braket,product or vendor name,CVE List,1,Table 2
+1,braket,product or vendor name,GHSA,1,Table 2
+1,braket,product or vendor name,OSV,3,Table 2
+1,qsharp,product or vendor name,NVD,0,Table 2
+1,qsharp,product or vendor name,CVE List,0,Table 2
+1,qsharp,product or vendor name,GHSA,0,Table 2
+1,qsharp,product or vendor name,OSV,1,Table 2
+1,openqasm,product or vendor name,NVD,0,Table 2
+1,openqasm,product or vendor name,CVE List,1,Table 2
+1,openqasm,product or vendor name,GHSA,0,Table 2
+1,openqasm,product or vendor name,OSV,0,Table 2
+1,IBM Quantum,product or vendor name,NVD,2,Table 2
+1,IBM Quantum,product or vendor name,CVE List,2,Table 2
+1,IBM Quantum,product or vendor name,GHSA,1,Table 2
+1,IBM Quantum,product or vendor name,OSV,0,Table 2
+1,Google Quantum,product or vendor name,NVD,0,Table 2
+1,Google Quantum,product or vendor name,CVE List,2,Table 2
+1,Google Quantum,product or vendor name,GHSA,5,Table 2
+1,Google Quantum,product or vendor name,OSV,0,Table 2
+1,Google Cirq,product or vendor name,NVD,0,Table 2
+1,Google Cirq,product or vendor name,CVE List,0,Table 2
+1,Google Cirq,product or vendor name,GHSA,0,Table 2
+1,Google Cirq,product or vendor name,OSV,0,Table 2
+1,rigetti,product or vendor name,NVD,0,Table 2
+1,rigetti,product or vendor name,CVE List,0,Table 2
+1,rigetti,product or vendor name,GHSA,0,Table 2
+1,rigetti,product or vendor name,OSV,0,Table 2
+1,xanadu,product or vendor name,NVD,1,Table 2
+1,xanadu,product or vendor name,CVE List,12,Table 2
+1,xanadu,product or vendor name,GHSA,1,Table 2
+1,xanadu,product or vendor name,OSV,194,Table 2
+1,quantum,generic term,NVD,210,Table 2
+1,quantum,generic term,CVE List,230,Table 2
+1,quantum,generic term,GHSA,208,Table 2
+1,quantum,generic term,OSV,193,Table 2
+1,quantum computing,generic term,NVD,1,Table 2
+1,quantum computing,generic term,CVE List,1,Table 2
+1,quantum computing,generic term,GHSA,1,Table 2
+1,quantum computing,generic term,OSV,0,Table 2
+1,quantum development kit,product or vendor name,NVD,1,Table 2
+1,quantum development kit,product or vendor name,CVE List,1,Table 2
+1,quantum development kit,product or vendor name,GHSA,1,Table 2
+1,quantum development kit,product or vendor name,OSV,0,Table 2
+1,quantum programming,generic term,NVD,0,Table 2
+1,quantum programming,generic term,CVE List,0,Table 2
+1,quantum programming,generic term,GHSA,0,Table 2
+1,quantum programming,generic term,OSV,0,Table 2
+1,quantum circuit,generic term,NVD,0,Table 2
+1,quantum circuit,generic term,CVE List,0,Table 2
+1,quantum circuit,generic term,GHSA,0,Table 2
+1,quantum circuit,generic term,OSV,0,Table 2
+1,quantum simulator,generic term,NVD,4,Table 2
+1,quantum simulator,generic term,CVE List,4,Table 2
+1,quantum simulator,generic term,GHSA,4,Table 2
+1,quantum simulator,generic term,OSV,0,Table 2
+1,quantum backend,generic term,NVD,1,Table 2
+1,quantum backend,generic term,CVE List,2,Table 2
+1,quantum backend,generic term,GHSA,4,Table 2
+1,quantum backend,generic term,OSV,0,Table 2
+2,flask,declared dependency,NVD,207,Table 3
+2,flask,declared dependency,CVE List,231,Table 3
+2,flask,declared dependency,GHSA,266,Table 3
+2,flask,declared dependency,OSV,10,Table 3
+2,joblib,declared dependency,NVD,4,Table 3
+2,joblib,declared dependency,CVE List,5,Table 3
+2,joblib,declared dependency,GHSA,7,Table 3
+2,joblib,declared dependency,OSV,2,Table 3
+2,numpy,declared dependency,NVD,25,Table 3
+2,numpy,declared dependency,CVE List,30,Table 3
+2,numpy,declared dependency,GHSA,100,Table 3
+2,numpy,declared dependency,OSV,16,Table 3
+2,pandas,declared dependency,NVD,27,Table 3
+2,pandas,declared dependency,CVE List,24,Table 3
+2,pandas,declared dependency,GHSA,25,Table 3
+2,pandas,declared dependency,OSV,1,Table 3
+2,protobuf,declared dependency,NVD,76,Table 3
+2,protobuf,declared dependency,CVE List,77,Table 3
+2,protobuf,declared dependency,GHSA,100,Table 3
+2,protobuf,declared dependency,OSV,9,Table 3
+2,psutil,declared dependency,NVD,2,Table 3
+2,psutil,declared dependency,CVE List,1,Table 3
+2,psutil,declared dependency,GHSA,5,Table 3
+2,psutil,declared dependency,OSV,2,Table 3
+2,pydantic,declared dependency,NVD,24,Table 3
+2,pydantic,declared dependency,CVE List,27,Table 3
+2,pydantic,declared dependency,GHSA,52,Table 3
+2,pydantic,declared dependency,OSV,4,Table 3
+2,pyyaml,declared dependency,NVD,8,Table 3
+2,pyyaml,declared dependency,CVE List,8,Table 3
+2,pyyaml,declared dependency,GHSA,14,Table 3
+2,pyyaml,declared dependency,OSV,8,Table 3
+2,scipy,declared dependency,NVD,3,Table 3
+2,scipy,declared dependency,CVE List,3,Table 3
+2,scipy,declared dependency,GHSA,4,Table 3
+2,scipy,declared dependency,OSV,4,Table 3
+2,tqdm,declared dependency,NVD,2,Table 3
+2,tqdm,declared dependency,CVE List,2,Table 3
+2,tqdm,declared dependency,GHSA,2,Table 3
+2,tqdm,declared dependency,OSV,4,Table 3
+2,urllib3,declared dependency,NVD,21,Table 3
+2,urllib3,declared dependency,CVE List,22,Table 3
+2,urllib3,declared dependency,GHSA,38,Table 3
+2,urllib3,declared dependency,OSV,38,Table 3
+2,waitress,declared dependency,NVD,9,Table 3
+2,waitress,declared dependency,CVE List,9,Table 3
+2,waitress,declared dependency,GHSA,14,Table 3
+2,waitress,declared dependency,OSV,19,Table 3
+2,requests,declared dependency,NVD,10657,Section 3.1.2 (reported separately)
+2,requests,declared dependency,CVE List,10777,Section 3.1.2 (reported separately)
+2,requests,declared dependency,GHSA,11814,Section 3.1.2 (reported separately)
+2,requests,declared dependency,OSV,16,Section 3.1.2 (reported separately)
+2,attrs,declared dependency,NVD,24,Section 3.1.2 (name is also a common word or another product)
+2,attrs,declared dependency,CVE List,101,Section 3.1.2 (name is also a common word or another product)
+2,attrs,declared dependency,GHSA,140,Section 3.1.2 (name is also a common word or another product)
+2,attrs,declared dependency,OSV,0,Section 3.1.2 (name is also a common word or another product)
+2,autograd,declared dependency,NVD,4,Section 3.1.2 (name is also a common word or another product)
+2,autograd,declared dependency,CVE List,3,Section 3.1.2 (name is also a common word or another product)
+2,autograd,declared dependency,GHSA,3,Section 3.1.2 (name is also a common word or another product)
+2,autograd,declared dependency,OSV,0,Section 3.1.2 (name is also a common word or another product)
+2,backoff,declared dependency,NVD,50,Section 3.1.2 (name is also a common word or another product)
+2,backoff,declared dependency,CVE List,13,Section 3.1.2 (name is also a common word or another product)
+2,backoff,declared dependency,GHSA,17,Section 3.1.2 (name is also a common word or another product)
+2,backoff,declared dependency,OSV,0,Section 3.1.2 (name is also a common word or another product)
+2,boto3,declared dependency,NVD,1,Section 3.1.2 (name is also a common word or another product)
+2,boto3,declared dependency,CVE List,1,Section 3.1.2 (name is also a common word or another product)
+2,boto3,declared dependency,GHSA,3,Section 3.1.2 (name is also a common word or another product)
+2,boto3,declared dependency,OSV,0,Section 3.1.2 (name is also a common word or another product)
+2,cloudpickle,declared dependency,NVD,10,Section 3.1.2 (name is also a common word or another product)
+2,cloudpickle,declared dependency,CVE List,12,Section 3.1.2 (name is also a common word or another product)
+2,cloudpickle,declared dependency,GHSA,13,Section 3.1.2 (name is also a common word or another product)
+2,cloudpickle,declared dependency,OSV,0,Section 3.1.2 (name is also a common word or another product)
+2,cma,declared dependency,NVD,138,Section 3.1.2 (name is also a common word or another product)
+2,cma,declared dependency,CVE List,60,Section 3.1.2 (name is also a common word or another product)
+2,cma,declared dependency,GHSA,62,Section 3.1.2 (name is also a common word or another product)
+2,cma,declared dependency,OSV,0,Section 3.1.2 (name is also a common word or another product)
+2,deprecated,declared dependency,NVD,212,Section 3.1.2 (name is also a common word or another product)
+2,deprecated,declared dependency,CVE List,231,Section 3.1.2 (name is also a common word or another product)
+2,deprecated,declared dependency,GHSA,411,Section 3.1.2 (name is also a common word or another product)
+2,deprecated,declared dependency,OSV,0,Section 3.1.2 (name is also a common word or another product)
+2,dill,declared dependency,NVD,6,Section 3.1.2 (name is also a common word or another product)
+2,dill,declared dependency,CVE List,4,Section 3.1.2 (name is also a common word or another product)
+2,dill,declared dependency,GHSA,6,Section 3.1.2 (name is also a common word or another product)
+2,dill,declared dependency,OSV,0,Section 3.1.2 (name is also a common word or another product)
+2,duet,declared dependency,NVD,2,Section 3.1.2 (name is also a common word or another product)
+2,duet,declared dependency,CVE List,2,Section 3.1.2 (name is also a common word or another product)
+2,duet,declared dependency,GHSA,2,Section 3.1.2 (name is also a common word or another product)
+2,duet,declared dependency,OSV,0,Section 3.1.2 (name is also a common word or another product)
+2,gast,declared dependency,NVD,11,Section 3.1.2 (name is also a common word or another product)
+2,gast,declared dependency,CVE List,1,Section 3.1.2 (name is also a common word or another product)
+2,gast,declared dependency,GHSA,1,Section 3.1.2 (name is also a common word or another product)
+2,gast,declared dependency,OSV,0,Section 3.1.2 (name is also a common word or another product)
+2,jax,declared dependency,NVD,104,Section 3.1.2 (name is also a common word or another product)
+2,jax,declared dependency,CVE List,49,Section 3.1.2 (name is also a common word or another product)
+2,jax,declared dependency,GHSA,52,Section 3.1.2 (name is also a common word or another product)
+2,jax,declared dependency,OSV,0,Section 3.1.2 (name is also a common word or another product)
+2,matplotlib,declared dependency,NVD,1,Section 3.1.2 (name is also a common word or another product)
+2,matplotlib,declared dependency,CVE List,2,Section 3.1.2 (name is also a common word or another product)
+2,matplotlib,declared dependency,GHSA,3,Section 3.1.2 (name is also a common word or another product)
+2,matplotlib,declared dependency,OSV,0,Section 3.1.2 (name is also a common word or another product)
+2,numba,declared dependency,NVD,3,Section 3.1.2 (name is also a common word or another product)
+2,numba,declared dependency,CVE List,0,Section 3.1.2 (name is also a common word or another product)
+2,numba,declared dependency,GHSA,0,Section 3.1.2 (name is also a common word or another product)
+2,numba,declared dependency,OSV,0,Section 3.1.2 (name is also a common word or another product)
+2,packaging,declared dependency,NVD,70,Section 3.1.2 (name is also a common word or another product)
+2,packaging,declared dependency,CVE List,71,Section 3.1.2 (name is also a common word or another product)
+2,packaging,declared dependency,GHSA,78,Section 3.1.2 (name is also a common word or another product)
+2,packaging,declared dependency,OSV,0,Section 3.1.2 (name is also a common word or another product)
+2,pybase64,declared dependency,NVD,0,Section 3.1.2 (name is also a common word or another product)
+2,pybase64,declared dependency,CVE List,0,Section 3.1.2 (name is also a common word or another product)
+2,pybase64,declared dependency,GHSA,2,Section 3.1.2 (name is also a common word or another product)
+2,pybase64,declared dependency,OSV,0,Section 3.1.2 (name is also a common word or another product)
+2,quil,declared dependency,NVD,15,Section 3.1.2 (name is also a common word or another product)
+2,quil,declared dependency,CVE List,0,Section 3.1.2 (name is also a common word or another product)
+2,quil,declared dependency,GHSA,0,Section 3.1.2 (name is also a common word or another product)
+2,quil,declared dependency,OSV,0,Section 3.1.2 (name is also a common word or another product)
+2,stevedore,declared dependency,NVD,2,Section 3.1.2 (name is also a common word or another product)
+2,stevedore,declared dependency,CVE List,2,Section 3.1.2 (name is also a common word or another product)
+2,stevedore,declared dependency,GHSA,2,Section 3.1.2 (name is also a common word or another product)
+2,stevedore,declared dependency,OSV,0,Section 3.1.2 (name is also a common word or another product)
+2,sympy,declared dependency,NVD,4,Section 3.1.2 (name is also a common word or another product)
+2,sympy,declared dependency,CVE List,4,Section 3.1.2 (name is also a common word or another product)
+2,sympy,declared dependency,GHSA,3,Section 3.1.2 (name is also a common word or another product)
+2,sympy,declared dependency,OSV,0,Section 3.1.2 (name is also a common word or another product)
+2,tabulate,declared dependency,NVD,1,Section 3.1.2 (name is also a common word or another product)
+2,tabulate,declared dependency,CVE List,1,Section 3.1.2 (name is also a common word or another product)
+2,tabulate,declared dependency,GHSA,1,Section 3.1.2 (name is also a common word or another product)
+2,tabulate,declared dependency,OSV,0,Section 3.1.2 (name is also a common word or another product)
+2,toml,declared dependency,NVD,17,Section 3.1.2 (name is also a common word or another product)
+2,toml,declared dependency,CVE List,51,Section 3.1.2 (name is also a common word or another product)
+2,toml,declared dependency,GHSA,117,Section 3.1.2 (name is also a common word or another product)
+2,toml,declared dependency,OSV,0,Section 3.1.2 (name is also a common word or another product)
+2,typing-extensions,declared dependency,NVD,0,Section 3.1.2 (name is also a common word or another product)
+2,typing-extensions,declared dependency,CVE List,0,Section 3.1.2 (name is also a common word or another product)
+2,typing-extensions,declared dependency,GHSA,2,Section 3.1.2 (name is also a common word or another product)
+2,typing-extensions,declared dependency,OSV,0,Section 3.1.2 (name is also a common word or another product)
+2,amazon-braket-default-simulator,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,amazon-braket-default-simulator,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,amazon-braket-default-simulator,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,amazon-braket-default-simulator,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,amazon-braket-schemas,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,amazon-braket-schemas,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,amazon-braket-schemas,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,amazon-braket-schemas,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,appdirs,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,appdirs,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,appdirs,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,appdirs,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,autoray,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,autoray,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,autoray,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,autoray,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,backports.entry-points-selectable,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,backports.entry-points-selectable,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,backports.entry-points-selectable,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,backports.entry-points-selectable,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,boltons,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,boltons,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,boltons,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,boltons,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,cachetools,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,cachetools,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,cachetools,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,cachetools,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,diastatic-malt,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,diastatic-malt,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,diastatic-malt,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,diastatic-malt,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,google-api-core,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,google-api-core,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,google-api-core,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,google-api-core,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,ibm-platform-services,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,ibm-platform-services,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,ibm-platform-services,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,ibm-platform-services,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,ibm-quantum-schemas,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,ibm-quantum-schemas,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,ibm-quantum-schemas,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,ibm-quantum-schemas,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,jaxlib,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,jaxlib,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,jaxlib,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,jaxlib,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,nest-asyncio,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,nest-asyncio,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,nest-asyncio,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,nest-asyncio,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,networkx,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,networkx,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,networkx,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,networkx,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,openpulse,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,openpulse,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,openpulse,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,openpulse,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,openqasm3,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,openqasm3,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,openqasm3,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,openqasm3,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,optuna,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,optuna,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,optuna,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,optuna,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,oqpy,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,oqpy,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,oqpy,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,oqpy,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,pennylane-lightning,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,pennylane-lightning,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,pennylane-lightning,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,pennylane-lightning,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,proto-plus,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,proto-plus,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,proto-plus,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,proto-plus,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,python-dateutil,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,python-dateutil,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,python-dateutil,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,python-dateutil,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,qcs-sdk-python,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,qcs-sdk-python,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,qcs-sdk-python,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,qcs-sdk-python,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,quantum-blackbird,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,quantum-blackbird,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,quantum-blackbird,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,quantum-blackbird,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,quantum-xir,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,quantum-xir,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,quantum-xir,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,quantum-xir,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,requests-ntlm,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,requests-ntlm,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,requests-ntlm,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,requests-ntlm,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,rigetti-quax,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,rigetti-quax,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,rigetti-quax,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,rigetti-quax,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,rpcq,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,rpcq,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,rpcq,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,rpcq,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,rustworkx,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,rustworkx,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,rustworkx,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,rustworkx,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,samplomatic,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,samplomatic,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,samplomatic,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,samplomatic,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,sortedcontainers,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,sortedcontainers,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,sortedcontainers,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,sortedcontainers,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,thewalrus,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,thewalrus,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,thewalrus,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,thewalrus,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,tomlkit,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,tomlkit,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,tomlkit,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,tomlkit,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,typedunits,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,typedunits,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,typedunits,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,typedunits,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,types-deprecated,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,types-deprecated,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,types-deprecated,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,types-deprecated,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,xanadu-cloud-client,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,xanadu-cloud-client,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,xanadu-cloud-client,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,xanadu-cloud-client,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,astpretty,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,astpretty,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,astpretty,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,astpretty,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,custatevec-cu12,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,custatevec-cu12,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,custatevec-cu12,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,custatevec-cu12,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,cutensornet-cu12,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,cutensornet-cu12,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,cutensornet-cu12,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,cutensornet-cu12,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,cudensitymat-cu12,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,cudensitymat-cu12,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,cudensitymat-cu12,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,cudensitymat-cu12,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,nvidia-cublas-cu12,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,nvidia-cublas-cu12,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,nvidia-cublas-cu12,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,nvidia-cublas-cu12,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,nvidia-curand-cu12,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,nvidia-curand-cu12,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,nvidia-curand-cu12,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,nvidia-curand-cu12,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,nvidia-cusparse-cu12,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,nvidia-cusparse-cu12,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,nvidia-cusparse-cu12,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,nvidia-cusparse-cu12,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,nvidia-cuda-runtime-cu12,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,nvidia-cuda-runtime-cu12,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,nvidia-cuda-runtime-cu12,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,nvidia-cuda-runtime-cu12,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,nvidia-cusolver-cu12,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,nvidia-cusolver-cu12,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,nvidia-cusolver-cu12,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,nvidia-cusolver-cu12,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,nvidia-cuda-nvrtc-cu12,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,nvidia-cuda-nvrtc-cu12,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,nvidia-cuda-nvrtc-cu12,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,nvidia-cuda-nvrtc-cu12,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,cupy-cuda12x,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,cupy-cuda12x,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,cupy-cuda12x,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,cupy-cuda12x,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,custatevec-cu13,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,custatevec-cu13,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,custatevec-cu13,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,custatevec-cu13,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,cutensornet-cu13,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,cutensornet-cu13,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,cutensornet-cu13,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,cutensornet-cu13,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,cudensitymat-cu13,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,cudensitymat-cu13,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,cudensitymat-cu13,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,cudensitymat-cu13,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,nvidia-cublas,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,nvidia-cublas,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,nvidia-cublas,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,nvidia-cublas,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,nvidia-curand,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,nvidia-curand,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,nvidia-curand,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,nvidia-curand,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,nvidia-cusparse,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,nvidia-cusparse,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,nvidia-cusparse,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,nvidia-cusparse,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,nvidia-cuda-runtime,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,nvidia-cuda-runtime,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,nvidia-cuda-runtime,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,nvidia-cuda-runtime,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,nvidia-cusolver,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,nvidia-cusolver,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,nvidia-cusolver,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,nvidia-cusolver,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,nvidia-cuda-nvrtc,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,nvidia-cuda-nvrtc,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,nvidia-cuda-nvrtc,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,nvidia-cuda-nvrtc,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+2,cupy-cuda13x,declared dependency,NVD,0,Section 3.1.2 (no record in any database)
+2,cupy-cuda13x,declared dependency,CVE List,0,Section 3.1.2 (no record in any database)
+2,cupy-cuda13x,declared dependency,GHSA,0,Section 3.1.2 (no record in any database)
+2,cupy-cuda13x,declared dependency,OSV,0,Section 3.1.2 (no record in any database)
+3,liboqs,library or project name,NVD,8,Table 4
+3,liboqs,library or project name,CVE List,8,Table 4
+3,liboqs,library or project name,GHSA,3,Table 4
+3,liboqs,library or project name,OSV,15,Table 4
+3,oqs-provider,library or project name,NVD,1,Table 4
+3,oqs-provider,library or project name,CVE List,1,Table 4
+3,oqs-provider,library or project name,GHSA,0,Table 4
+3,oqs-provider,library or project name,OSV,6,Table 4
+3,open quantum safe,library or project name,NVD,1,Table 4
+3,open quantum safe,library or project name,CVE List,8,Table 4
+3,open quantum safe,library or project name,GHSA,6,Table 4
+3,open quantum safe,library or project name,OSV,0,Table 4
+3,post-quantum,algorithm term,NVD,18,Table 4
+3,post-quantum,algorithm term,CVE List,23,Table 4
+3,post-quantum,algorithm term,GHSA,26,Table 4
+3,post-quantum,algorithm term,OSV,0,Table 4
+3,ML-KEM,algorithm term,NVD,8,Table 4
+3,ML-KEM,algorithm term,CVE List,9,Table 4
+3,ML-KEM,algorithm term,GHSA,10,Table 4
+3,ML-KEM,algorithm term,OSV,1,Table 4
+3,ML-DSA,algorithm term,NVD,6,Table 4
+3,ML-DSA,algorithm term,CVE List,24,Table 4
+3,ML-DSA,algorithm term,GHSA,30,Table 4
+3,ML-DSA,algorithm term,OSV,12,Table 4
+3,SLH-DSA,algorithm term,NVD,0,Table 4
+3,SLH-DSA,algorithm term,CVE List,0,Table 4
+3,SLH-DSA,algorithm term,GHSA,0,Table 4
+3,SLH-DSA,algorithm term,OSV,0,Table 4
+3,crystals,algorithm term,NVD,2,Table 4
+3,crystals,algorithm term,CVE List,5,Table 4
+3,crystals,algorithm term,GHSA,7,Table 4
+3,crystals,algorithm term,OSV,3,Table 4
+3,kyber,algorithm term,NVD,9,Table 4
+3,kyber,algorithm term,CVE List,9,Table 4
+3,kyber,algorithm term,GHSA,13,Table 4
+3,kyber,algorithm term,OSV,9,Table 4
+3,dilithium,algorithm term,NVD,1,Table 4
+3,dilithium,algorithm term,CVE List,3,Table 4
+3,dilithium,algorithm term,GHSA,2,Table 4
+3,dilithium,algorithm term,OSV,1,Table 4

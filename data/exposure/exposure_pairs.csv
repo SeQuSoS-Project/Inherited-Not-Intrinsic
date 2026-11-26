@@ -1,0 +1,26 @@
+cve,package,published,sdk,sdk_package,sdk_release,release_date,constraint,first_admitted_affected,source
+CVE-2022-1941,protobuf,2022-09-22,Cirq,cirq-google,1.0.0,2022-07-18,"<4,>=3.15.0",3.15.0,metadata
+CVE-2018-18074,requests,2018-10-09,Cirq,cirq,0.3.1.35,2018-07-18,~=2.18,2.18.0,metadata
+CVE-2018-18074,requests,2018-10-09,ProjectQ,projectq,0.4.1,2018-08-26,(unbounded),0.2.0,sdist
+CVE-2018-18074,requests,2018-10-09,pyQuil,pyquil,1.9.0,2018-06-07,>=2.4.2,2.4.2,sdist
+CVE-2024-35195,requests,2024-05-20,Qiskit IBM Runtime,qiskit-ibm-runtime,0.23.0,2024-04-15,>=2.19,2.19.0,metadata
+CVE-2024-35195,requests,2024-05-20,Cirq,cirq-ionq,1.3.0,2023-12-01,~=2.18,2.18.0,metadata
+CVE-2024-35195,requests,2024-05-20,Cirq,cirq-aqt,1.3.0,2023-12-01,~=2.18,2.18.0,metadata
+CVE-2024-35195,requests,2024-05-20,Cirq,cirq-pasqal,1.3.0,2023-12-01,~=2.18,2.18.0,metadata
+CVE-2024-35195,requests,2024-05-20,PennyLane,pennylane,0.36.0,2024-05-06,(unbounded),0.2.0,metadata
+CVE-2024-35195,requests,2024-05-20,ProjectQ,projectq,0.8.0,2022-10-18,(unbounded),0.2.0,sdist
+CVE-2024-35195,requests,2024-05-20,Strawberry Fields,strawberryfields,0.23.0,2022-06-01,>=2.22.0,2.22.0,metadata
+CVE-2018-25091,urllib3,2023-10-15,Qiskit IBM Runtime,qiskit-ibm-runtime,0.12.2,2023-09-28,>=1.21.1,1.21.1,metadata
+CVE-2018-25091,urllib3,2023-10-15,Strawberry Fields,strawberryfields,0.23.0,2022-06-01,>=1.25.3,,metadata
+CVE-2021-28363,urllib3,2021-03-15,Strawberry Fields,strawberryfields,0.17.0,2021-01-15,>=1.25.3,1.26.0,metadata
+CVE-2021-33503,urllib3,2021-06-29,Strawberry Fields,strawberryfields,0.18.0,2021-04-23,>=1.25.3,1.25.4,metadata
+CVE-2023-45803,urllib3,2023-10-17,Qiskit IBM Runtime,qiskit-ibm-runtime,0.12.2,2023-09-28,>=1.21.1,1.21.1,metadata
+CVE-2023-45803,urllib3,2023-10-17,Strawberry Fields,strawberryfields,0.23.0,2022-06-01,>=1.25.3,1.25.3,metadata
+CVE-2025-66418,urllib3,2025-12-05,Qiskit IBM Runtime,qiskit-ibm-runtime,0.43.1,2025-10-23,>=1.21.1,1.24,metadata
+CVE-2025-66418,urllib3,2025-12-05,Strawberry Fields,strawberryfields,0.23.0,2022-06-01,>=1.25.3,1.25.3,metadata
+CVE-2025-66471,urllib3,2025-12-05,Qiskit IBM Runtime,qiskit-ibm-runtime,0.43.1,2025-10-23,>=1.21.1,1.21.1,metadata
+CVE-2025-66471,urllib3,2025-12-05,Strawberry Fields,strawberryfields,0.23.0,2022-06-01,>=1.25.3,1.25.3,metadata
+CVE-2026-21441,urllib3,2026-01-07,Qiskit IBM Runtime,qiskit-ibm-runtime,0.44.0,2025-12-16,>=1.21.1,1.22,metadata
+CVE-2026-21441,urllib3,2026-01-07,Strawberry Fields,strawberryfields,0.23.0,2022-06-01,>=1.25.3,1.25.3,metadata
+CVE-2024-49768,waitress,2024-10-29,Qrisp,qrisp,0.4.15,2024-10-21,(unbounded),2.0.0,metadata
+CVE-2024-49769,waitress,2024-10-29,Qrisp,qrisp,0.4.15,2024-10-21,(unbounded),0.1,metadata

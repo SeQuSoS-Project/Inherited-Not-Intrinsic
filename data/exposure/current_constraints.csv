@@ -1,0 +1,19 @@
+sdk,sdk_package,release,release_date,requests,urllib3,protobuf,waitress,still_admits,admitted_affected_releases
+Qiskit,qiskit,2.5.2,2026-08-13,,,,,no,
+Qiskit IBM Runtime,qiskit-ibm-runtime,0.50.0,2026-09-24,>=2.32.4,>=2.4.0,,,yes,urllib3 2.4.0..2.6.2 [CVE-2025-66418 CVE-2025-66471 CVE-2026-21441]
+Cirq,cirq,1.7.0,2026-06-29,,,,,no,
+Cirq,cirq-core,1.7.0,2026-06-29,,,,,no,
+Cirq,cirq-google,1.7.0,2026-06-29,,,"<7.0dev,>=6.32.1",,no,
+Cirq,cirq-ionq,1.7.0,2026-06-29,~=2.32,,,,no,
+Cirq,cirq-aqt,1.7.0,2026-06-29,~=2.32,,,,no,
+Cirq,cirq-pasqal,1.7.0,2026-06-29,~=2.32,,,,no,
+PennyLane,pennylane,0.45.1,2026-06-26,(unbounded),,,,yes,requests 0.2.0..2.31.0 [CVE-2018-18074 CVE-2024-35195]
+ProjectQ,projectq,0.8.0,2022-10-18,(unbounded),,,,yes,requests 0.2.0..2.31.0 [CVE-2018-18074 CVE-2024-35195]
+Qibo,qibo,0.3.5,2026-09-16,,,,,no,
+Strawberry Fields,strawberryfields,0.23.0,2022-06-01,>=2.22.0,>=1.25.3,,,yes,requests 2.22.0..2.31.0 [CVE-2024-35195]; urllib3 1.25.3..2.6.2 [CVE-2021-28363 CVE-2021-33503 CVE-2023-45803 CVE-2025-66418 CVE-2025-66471 CVE-2026-21441]
+Qrisp,qrisp,0.9.9,2026-09-17,,,,,no,
+pyQuil,pyquil,4.21.0,2026-09-23,,,,,no,
+Qulacs,qulacs,0.6.14,2026-07-29,,,,,no,
+Amazon Braket SDK,amazon-braket-sdk,1.127.3,2026-09-28,,,,,no,
+CUDA-Q,cuda-quantum-cu12,0.16.0.post1,2026-09-17,>=2.32.3,,,,no,
+CUDA-Q,cuda-quantum-cu13,0.16.0.post1,2026-09-17,>=2.32.3,,,,no,

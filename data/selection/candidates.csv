@@ -1,0 +1,85 @@
+cve,tier,component,published,found_by,outcome,sdk_releases_declaring,sdk_releases_admitting,cvss,vulnerable_code,reason
+CVE-2021-27082,1,Q# / QDK,2021-03-11,searches of Tables 2-4,included,,,7.8,"remote code execution, no weakness details published",passes all checks; see corpus/corpus.csv
+CVE-2024-29032,1,Qiskit IBM Runtime,2024-03-20,searches of Tables 2-4,included,,,7.8,imports the module and class named in a job result,passes all checks; see corpus/corpus.csv
+CVE-2025-1403,1,Qiskit,2025-02-21,searches of Tables 2-4,included,,,8.6,malformed symengine stream crashes the process,passes all checks; see corpus/corpus.csv
+CVE-2025-2000,1,Qiskit,2025-03-14,searches of Tables 2-4,included,,,9.8,sympy-encoded expression is evaluated on qpy.load and runs code,passes all checks; see corpus/corpus.csv
+CVE-2026-24189,1,CUDA-Q,2026-04-21,searches of Tables 2-4,included,,,8.2,"out-of-bounds read in a network endpoint, triggered by an unauthenticated crafted request",passes all checks; see corpus/corpus.csv
+CVE-2026-9291,1,Amazon Braket SDK,2026-05-22,searches of Tables 2-4,included,,,7.1,pickle.loads on pickled_v4 job results fetched from S3,passes all checks; see corpus/corpus.csv
+CVE-2026-4870,1,Qiskit,2026-06-12,searches of Tables 2-4,included,,,7.5,unbounded expression recursion,passes all checks; see corpus/corpus.csv
+CVE-2026-19795,1,Qiskit,2026-09-03,searches of Tables 2-4,included,,,6.2,recursive ParameterExpression evaluation overflows the stack,passes all checks; see corpus/corpus.csv
+CVE-2022-1941,2,protobuf,2022-09-22,searches of Tables 2-4,included,1,1,7.5,MessageSet parsing exhausts memory (Cirq's Quantum Engine client),passes all checks; see corpus/corpus.csv
+CVE-2018-18074,2,requests,2018-10-09,separate requests search,included,3,3,7.5,Authorization header re-sent after an https→http redirect,passes all checks; see corpus/corpus.csv
+CVE-2024-35195,2,requests,2024-05-20,separate requests search,included,7,7,5.6,a Session keeps verify=False for all later requests to the host,passes all checks; see corpus/corpus.csv
+CVE-2018-25091,2,urllib3,2023-10-15,searches of Tables 2-4,included,2,1,6.1,Authorization header kept on a cross-origin redirect,passes all checks; see corpus/corpus.csv
+CVE-2021-28363,2,urllib3,2021-03-15,searches of Tables 2-4,included,1,1,6.5,HTTPS proxy certificate hostname not verified,passes all checks; see corpus/corpus.csv
+CVE-2021-33503,2,urllib3,2021-06-29,searches of Tables 2-4,included,1,1,7.5,ReDoS in URL authority parsing,passes all checks; see corpus/corpus.csv
+CVE-2023-45803,2,urllib3,2023-10-17,searches of Tables 2-4,included,2,2,4.2,request body (job payload) kept on a 303 redirect,passes all checks; see corpus/corpus.csv
+CVE-2025-66418,2,urllib3,2025-12-05,searches of Tables 2-4,included,2,2,7.5,unbounded decompression chain,passes all checks; see corpus/corpus.csv
+CVE-2025-66471,2,urllib3,2025-12-05,searches of Tables 2-4,included,2,2,7.5,decompression bomb through the streaming API,passes all checks; see corpus/corpus.csv
+CVE-2026-21441,2,urllib3,2026-01-07,searches of Tables 2-4,included,2,2,7.5,decompression-bomb limits bypassed after redirects,passes all checks; see corpus/corpus.csv
+CVE-2024-49768,2,waitress,2024-10-29,searches of Tables 2-4,included,1,1,4.8,request smuggling via pipelining (Qrisp job server),passes all checks; see corpus/corpus.csv
+CVE-2024-49769,2,waitress,2024-10-29,searches of Tables 2-4,included,1,1,7.5,denial of service when a client closes early (Qrisp job server),passes all checks; see corpus/corpus.csv
+CVE-2024-36405,3,liboqs,2024-06-10,searches of Tables 2-4,included,,,7.5,control-flow timing leak in Kyber/ML-KEM decapsulation,passes all checks; see corpus/corpus.csv
+CVE-2024-37305,3,oqs-provider,2024-06-17,searches of Tables 2-4,included,,,8.2,length handling of hybrid keys and signatures (buffer overflow),passes all checks; see corpus/corpus.csv
+CVE-2024-54137,3,liboqs,2024-12-06,searches of Tables 2-4,included,,,7.5,HQC indexing error exposes part of the secret key,passes all checks; see corpus/corpus.csv
+CVE-2025-48946,3,liboqs,2025-05-30,searches of Tables 2-4,included,,,3.7,HQC implicit-rejection design flaw,passes all checks; see corpus/corpus.csv
+CVE-2025-52473,3,liboqs,2025-07-10,searches of Tables 2-4,included,,,5.5,secret-dependent branches in HQC,passes all checks; see corpus/corpus.csv
+CVE-2020-13091,2,pandas,2020-05-15,searches of Tables 2-4,not confirmed (IC3),,,,,"no vendor, maintainer or GitHub-reviewed advisory"
+CVE-2021-22570,2,protobuf,2022-01-26,searches of Tables 2-4,not confirmed (IC3),,,,,"no vendor, maintainer or GitHub-reviewed advisory"
+CVE-2023-25399,2,scipy,2023-07-05,searches of Tables 2-4,not confirmed (IC3),,,,,"no vendor, maintainer or GitHub-reviewed advisory"
+CVE-2023-29824,2,scipy,2023-07-06,searches of Tables 2-4,not confirmed (IC3),,,,,"no vendor, maintainer or GitHub-reviewed advisory"
+CVE-2024-31510,3,liboqs,2024-05-24,searches of Tables 2-4,not confirmed (IC3),,,,,alleges a non-existent liboqs version (10.0); no maintainer advisory
+CVE-2018-1000656,2,flask,2018-08-20,searches of Tables 2-4,not exposed,0,0,,,no SDK release in force on the publication date declared flask
+CVE-2019-1010083,2,flask,2019-07-17,searches of Tables 2-4,not exposed,0,0,,,no SDK release in force on the publication date declared flask
+CVE-2023-30861,2,flask,2023-05-02,searches of Tables 2-4,not exposed,0,0,,,no SDK release in force on the publication date declared flask
+CVE-2015-5237,2,protobuf,2017-09-25,searches of Tables 2-4,not exposed,0,0,,,no SDK release in force on the publication date declared protobuf
+CVE-2021-29510,2,pydantic,2021-05-13,searches of Tables 2-4,not exposed,0,0,,,no SDK release in force on the publication date declared pydantic
+CVE-2017-18342,2,pyyaml,2018-06-27,searches of Tables 2-4,not exposed,0,0,,,no SDK release in force on the publication date declared pyyaml
+CVE-2019-20477,2,pyyaml,2020-02-19,searches of Tables 2-4,not exposed,0,0,,,no SDK release in force on the publication date declared pyyaml
+CVE-2020-1747,2,pyyaml,2020-03-24,searches of Tables 2-4,not exposed,0,0,,,no SDK release in force on the publication date declared pyyaml
+CVE-2020-14343,2,pyyaml,2021-02-09,searches of Tables 2-4,not exposed,0,0,,,no SDK release in force on the publication date declared pyyaml
+CVE-2014-1829,2,requests,2014-10-15,separate requests search,not exposed,0,0,,,no SDK release in force on the publication date declared requests
+CVE-2014-1830,2,requests,2014-10-15,separate requests search,not exposed,0,0,,,no SDK release in force on the publication date declared requests
+CVE-2015-2296,2,requests,2015-03-18,separate requests search,not exposed,0,0,,,no SDK release in force on the publication date declared requests
+CVE-2016-10075,2,tqdm,2017-01-19,searches of Tables 2-4,not exposed,0,0,,,no SDK release in force on the publication date declared tqdm
+CVE-2016-9015,2,urllib3,2017-01-11,searches of Tables 2-4,not exposed,0,0,,,no SDK release in force on the publication date declared urllib3
+CVE-2018-20060,2,urllib3,2018-12-11,searches of Tables 2-4,not exposed,0,0,,,no SDK release in force on the publication date declared urllib3
+CVE-2019-11236,2,urllib3,2019-04-15,searches of Tables 2-4,not exposed,0,0,,,no SDK release in force on the publication date declared urllib3
+CVE-2019-11324,2,urllib3,2019-04-18,searches of Tables 2-4,not exposed,0,0,,,no SDK release in force on the publication date declared urllib3
+CVE-2020-7212,2,urllib3,2020-03-06,searches of Tables 2-4,not exposed,0,0,,,no SDK release in force on the publication date declared urllib3
+CVE-2019-16785,2,waitress,2019-12-20,searches of Tables 2-4,not exposed,0,0,,,no SDK release in force on the publication date declared waitress
+CVE-2019-16786,2,waitress,2019-12-20,searches of Tables 2-4,not exposed,0,0,,,no SDK release in force on the publication date declared waitress
+CVE-2019-16789,2,waitress,2019-12-26,searches of Tables 2-4,not exposed,0,0,,,no SDK release in force on the publication date declared waitress
+CVE-2019-16792,2,waitress,2020-01-22,searches of Tables 2-4,not exposed,0,0,,,no SDK release in force on the publication date declared waitress
+CVE-2020-5236,2,waitress,2020-02-04,searches of Tables 2-4,not exposed,0,0,,,no SDK release in force on the publication date declared waitress
+CVE-2022-24761,2,waitress,2022-03-17,searches of Tables 2-4,not exposed,0,0,,,no SDK release in force on the publication date declared waitress
+CVE-2022-31015,2,waitress,2022-05-31,searches of Tables 2-4,not exposed,0,0,,,no SDK release in force on the publication date declared waitress
+CVE-2025-47278,2,flask,2025-05-13,searches of Tables 2-4,not reachable (IC4),1,1,1.8,fallback key used for signing,Qrisp backend server uses no sessions or secret key
+CVE-2026-27205,2,flask,2026-02-21,searches of Tables 2-4,not reachable (IC4),1,1,4.3,missing Vary: Cookie on session access,Qrisp backend server uses no sessions
+CVE-2022-21797,2,joblib,2022-09-26,searches of Tables 2-4,not reachable (IC4),1,1,9.8,eval() of Parallel pre_dispatch argument,Qibo never passes pre_dispatch
+CVE-2014-1858,2,numpy,2018-01-08,searches of Tables 2-4,not reachable (IC4),3,1,5.5,f2py temporary-file symlink attack,local attacker; f2py build tooling
+CVE-2014-1859,2,numpy,2018-01-08,searches of Tables 2-4,not reachable (IC4),3,1,5.5,"insecure temporary files (f2py, tests)",local attacker; build/test code
+CVE-2017-12852,2,numpy,2017-08-15,searches of Tables 2-4,not reachable (IC4),2,2,7.5,numpy.pad infinite loop on empty input,"array API input, not a quantum artefact"
+CVE-2019-6446,2,numpy,2019-01-16,searches of Tables 2-4,not reachable (IC4),6,6,9.8,numpy.load unpickles by default,"triggered by .npy files, not quantum artefacts"
+CVE-2021-33430,2,numpy,2021-12-17,searches of Tables 2-4,not reachable (IC4),7,7,5.3,buffer overflow with >32 dimensions,disputed; needs attacker-chosen array shape
+CVE-2021-34141,2,numpy,2021-12-17,searches of Tables 2-4,not reachable (IC4),7,7,5.3,incomplete string comparison,vendor: harmless
+CVE-2021-41495,2,numpy,2021-12-17,searches of Tables 2-4,not reachable (IC4),7,6,5.3,NULL dereference in numpy.sort,needs allocation failure; disputed
+CVE-2021-41496,2,numpy,2021-12-17,searches of Tables 2-4,not reachable (IC4),7,6,5.5,f2py buffer overflow with negative dimensions,disputed; f2py extension code
+CVE-2025-4565,2,protobuf,2025-06-16,searches of Tables 2-4,not reachable (IC4),1,1,5.3,unbounded recursion,client crash only; non-default backend
+CVE-2026-0994,2,protobuf,2026-01-23,searches of Tables 2-4,not reachable (IC4),1,1,7.5,recursion limit bypass via nested Any,client crash only
+CVE-2019-18874,2,psutil,2019-11-12,searches of Tables 2-4,not reachable (IC4),1,1,7.5,double free,system-information API only
+CVE-2024-3772,2,pydantic,2024-04-15,searches of Tables 2-4,not reachable (IC4),1,1,7.5,ReDoS in email validation,runtime client models use no email fields
+CVE-2023-32681,2,requests,2023-05-26,separate requests search,not reachable (IC4),7,7,6.1,Proxy-Authorization forwarded on HTTPS redirect,exposes a proxy credential only
+CVE-2024-47081,2,requests,2025-06-09,separate requests search,not reachable (IC4),9,9,5.3,.netrc credentials leaked for crafted URLs,needs attacker-chosen URL; vendor tokens not in .netrc
+CVE-2026-25645,2,requests,2026-03-25,separate requests search,not reachable (IC4),10,10,5.5,predictable temporary file in extract_zipped_paths,local attacker
+CVE-2013-4251,2,scipy,2019-11-04,searches of Tables 2-4,not reachable (IC4),5,3,7.8,scipy.weave insecure temporary directories,local attacker; weave removed from SciPy
+CVE-2024-34062,2,tqdm,2024-05-03,searches of Tables 2-4,not reachable (IC4),1,1,4.8,CLI arguments passed to eval(),CLI only; local
+CVE-2020-26137,2,urllib3,2020-09-30,searches of Tables 2-4,not reachable (IC4),1,1,6.5,CRLF injection via HTTP method,method never attacker-controlled in SDK clients
+CVE-2023-43804,2,urllib3,2023-10-04,searches of Tables 2-4,not reachable (IC4),2,2,8.1,Cookie header kept on cross-origin redirect,SDK clients do not authenticate with cookies
+CVE-2024-37891,2,urllib3,2024-06-17,searches of Tables 2-4,not reachable (IC4),2,2,6.5,Proxy-Authorization kept on cross-origin redirect,exposes a proxy credential only
+CVE-2025-50181,2,urllib3,2025-06-19,searches of Tables 2-4,not reachable (IC4),2,2,6.1,redirects not disabled via PoolManager retries,requests/botocore not affected by default
+CVE-2025-50182,2,urllib3,2025-06-19,searches of Tables 2-4,not reachable (IC4),2,2,6.1,redirects not controlled under Pyodide,browser runtime only
+CVE-2026-44431,2,urllib3,2026-05-13,searches of Tables 2-4,not reachable (IC4),2,2,5.3,sensitive headers forwarded in proxied low-level redirects,requests handles redirects itself; low-level path unused
+CVE-2026-44432,2,urllib3,2026-05-13,searches of Tables 2-4,not reachable (IC4),2,2,7.5,whole response decompressed on partial reads,read(amt)/drain_conn path unused
+CVE-2026-44518,3,liboqs,2026-05-29,searches of Tables 2-4,not reachable (IC4),,,5.3,out-of-bounds read in XMSS verification (short signature),stateful signatures not used on the job channel
+CVE-2026-46344,3,liboqs,2026-05-29,searches of Tables 2-4,not reachable (IC4),,,5.3,out-of-bounds read in XMSS verification (OID mismatch),stateful signatures not used on the job channel
